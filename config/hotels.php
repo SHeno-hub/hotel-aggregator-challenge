@@ -1,3 +1,4 @@
+<?php
 return [
     'providers' => [
         'advertiser_1' => env('ADVERTISER_1_URL'),
